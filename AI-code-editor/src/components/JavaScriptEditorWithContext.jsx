@@ -16,8 +16,7 @@ const JavaScriptEditorWithContext = () => {
   return (
     <div>
       <p>
-        This editor has context awareness of a neighboring HTML file and can
-        provide better autocompletion suggestions.
+        Online code editor with Powerful Autocomplete provided by Codeium AI
       </p>
       <CodeiumEditor
         language="javascript"

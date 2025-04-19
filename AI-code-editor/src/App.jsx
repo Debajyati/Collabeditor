@@ -4,7 +4,7 @@ import JavaScriptEditorWithContext from "./components/JavaScriptEditorWithContex
 function App() {
   return (
     <>
-      <h1>Hello World</h1>
+      <h1>AI Code Editor</h1>
       <JavaScriptEditorWithContext />
     </>
   );
